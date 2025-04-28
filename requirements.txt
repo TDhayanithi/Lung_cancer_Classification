@@ -1,0 +1,13 @@
+torch==2.1.0        # or the latest version compatible with your CUDA/Jetson
+torchvision==0.16.0
+
+numpy
+pillow
+matplotlib
+scikit-learn
+opencv-python
+tqdm
+timm
+
+# Streamlit for web deployment
+streamlit==1.32.2
