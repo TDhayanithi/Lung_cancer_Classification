@@ -139,7 +139,7 @@ streamlit run chatbot_app.py
 
 | Web App |
 | :---: | 
-| ![Alt text](path/to/image) |
+| ![Alt text](1.png) |
 
 ---
 
@@ -154,7 +154,7 @@ streamlit run chatbot_app.py
 
 ## 🧑‍💻 Author
 
-- **Dhayanithi** - [LinkedIn](your-linkedin-profile) | [GitHub](https://github.com/your-username)
+- **Dhayanithi** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/your-username)
 
 ---
 
@@ -173,10 +173,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 # 🌟 If you find this project useful, please give a ⭐ on GitHub!
-
----
-
----
-  
-Would you also like me to create a small `requirements.txt` file you can add directly? 🚀  
-(Example: `torch`, `torchvision`, `streamlit`, etc.)
