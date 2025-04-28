@@ -119,8 +119,8 @@ streamlit run chatbot_app.py
 
 | Class      | Precision | Recall | F1-Score |
 |------------|-----------|--------|----------|
-| Benign     | 0.87      | 0.85   | 0.86     |
-| Malignant  | 0.89      | 0.88   | 0.88     |
+| Benign     | 0.97      | 0.95   | 0.96     |
+| Malignant  | 0.99      | 0.98   | 0.98     |
 | Normal     | 0.90      | 0.91   | 0.90     |
 
 ---
@@ -154,8 +154,10 @@ streamlit run chatbot_app.py
 
 ## 🧑‍💻 Author
 
-- **Dhayanithi** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/your-username)
-
+- **Bhavadharini** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
+- **Dhayanithi** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
+- **Deeksha** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
+- **Priyadharshini** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
 ---
 
 ## 📜 License
