@@ -154,10 +154,10 @@ streamlit run chatbot_app.py
 
 ## 🧑‍💻 Author
 
-- **Bhavadharini** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
+- **Bhavadharini** - [LinkedIn]() | [GitHub]()
 - **Dhayanithi** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
-- **Deeksha** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
-- **Priyadharshini** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
+- **Deeksha** - [LinkedIn]() | [GitHub]()
+- **Priyadharshini** - [LinkedIn]() | [GitHub]()
 ---
 
 ## 📜 License
