@@ -1,6 +1,3 @@
-Of course!  
-Based on your project (multi-class lung cancer classification, Streamlit app, chatbot-like interface, etc.), here’s a **professional and clean README.md** format you can use for GitHub:
-
 ---
 
 # Lung Cancer Classification and Detection Assistant 🫁
@@ -140,9 +137,9 @@ streamlit run chatbot_app.py
 
 ## 📸 Demo Screenshots
 
-| Web App | Chatbot App |
-| :---: | :---: |
-| ![web app](link-to-your-screenshot.png) | ![chatbot](link-to-your-screenshot.png) |
+| Web App |
+| :---: | 
+| ![Alt text](path/to/image) |
 
 ---
 
